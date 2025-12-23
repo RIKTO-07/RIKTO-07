@@ -1,3 +1,5 @@
+
+![Profile Banner](https://github.com/RIKTO-07/RIKTO-07/blob/main/githubBanner.png)
 <h1 align="center">👋 Hello, I'm Rikto Pal</h1>
 <h3 align="center">
 Cyber Security Intern | Ethical Hacking | Penetration Tester | Web Developer
